@@ -1,0 +1,4 @@
+#Thu Mar 23 20:29:16 PDT 2023
+base.0=/Users/smyth/Desktop/Object-Oriented_Design_Lab/PigGameLab/app/build/intermediates/dex/debug/mergeDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex

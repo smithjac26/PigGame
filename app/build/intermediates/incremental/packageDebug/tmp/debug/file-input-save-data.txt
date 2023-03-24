@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 23 20:29:16 PDT 2023
+0.base=/Users/smyth/Desktop/Object-Oriented_Design_Lab/PigGameLab/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
